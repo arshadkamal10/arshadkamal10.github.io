@@ -36,7 +36,7 @@ Tatsios G, Chinnappan AK, **Kamal A**, Vasileiadis N, Docherty SY, White C, Gibe
 
 # Thesis
 
-Kamal AA. Undulatory Microswimmers in complex environments: the effects of fluid composition, swimming gait, and swimmer interactions. Imperial College London Doctoral Dissertation. Septemeber 2020.
+Kamal AA. Undulatory microswimmers in complex environments: the effects of fluid composition, swimming gait, and swimmer interactions. Imperial College London Doctoral Dissertation. Septemeber 2020.
 
 # Research Interests
 

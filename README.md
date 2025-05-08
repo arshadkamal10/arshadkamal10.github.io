@@ -28,7 +28,7 @@ April 2021 - December 2021.
 
 # Publications
 
-Chinnappan AK, **Kamal A**, Kermode JR, Lockerby DA. 2025 Bayesian regression-based continuum-particle method for low-speed rarefied flow: application to unsteady Poiseuille flow. Phys. Fluids. 37: 032037. 
+Chinnappan AK, **Kamal A**, Kermode JR, Lockerby DA. Bayesian regression-based continuum-particle method for low-speed rarefied flow: application to unsteady Poiseuille flow. Phys. Fluids. 37: 032037. 
 
 Tatsios G, Chinnappan AK, **Kamal A**, Vasileiadis N, Docherty SY, White C, Gibelli L, Borg MK, Kermode JR, Lockerby DA. A DSMC-CFD coupling method using surrogate modelling for low-speed rarefied gas flows. J. Comput. Phys. 520: 113500.
 

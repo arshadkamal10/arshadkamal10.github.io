@@ -1,18 +1,18 @@
 # arshadkamal10.github.io
 
-# Education
+Education
 
 
-# Employment
+Employment
 
 
-# Publications
+Publications
 
 
-# Thesis
+Thesis
 
 
-# Research Interests
+Research Interests
 
 
 

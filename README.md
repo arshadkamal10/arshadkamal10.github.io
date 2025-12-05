@@ -32,7 +32,7 @@ April 2021 - December 2021.
 
 # Publications
 
-**Kamal A**, Chinnappan AK, Kermode JR, Lockerby DA. Estimating low-speed rarefied gas flows in lid-driven cavities with surrogate modelling. Submitted.
+**Kamal A**, Chinnappan AK, Kermode JR, Lockerby DA. Estimating low-speed rarefied gas flows in lid-driven cavities with surrogate modelling. In Preparation.
 
 Chinnappan AK, **Kamal A**, Kermode JR, Lockerby DA. Bayesian regression-based continuum-particle method for low-speed rarefied flow: application to unsteady Poiseuille flow. Phys. Fluids. 37: 032037. 
 
